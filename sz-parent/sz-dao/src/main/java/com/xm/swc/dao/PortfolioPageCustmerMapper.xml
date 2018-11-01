@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xm.swc.dao.PortfolioPageCustmerMapper" >
+    <sql id="Base_Column_List" >
+    portfolioId,portfolioName,portfolioimgs,portfolioOccupation
+  </sql>
+    <insert id="insertPortfolioPage" >
+        insert into 
+        portfoliopage
+        (portfolioId,portfolioName,portfolioimgs,portfolioOccupation)
+        values (#{portfolioId},#{portfolioName},#{portfolioimgs},#{portfolioOccupation})
+    </insert>
+    <delete id="delectPortfolioPage">
+        delete from portfoliopage
+        where portfolioId = #{portfolioId}
+    </delete>
+    <update id="updatePortfolioPage" >
+        update portfoliopage
+        set portfolioName = #{portfolioName},portfolioimgs = #{portfolioimgs},portfolioOccupation = #{portfolioOccupation}
+        where  portfolioId = #{portfolioId}
+    </update>
+    <select id="selectPortfolioPage"  resultType="com.xm.swc.pojo.po.Portfoliopage">
+        select
+        <include refid="Base_Column_List"/>
+        from portfoliopage
+    </select>
+</mapper>

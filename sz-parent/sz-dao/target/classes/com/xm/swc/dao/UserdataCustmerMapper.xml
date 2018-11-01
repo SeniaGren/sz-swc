@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xm.swc.dao.UserdataCustmerMapper" >
+
+    <sql id="Base_Column_List" >
+     uname, upassword, uid
+  </sql>
+    <select id="selectUser" resultType="com.xm.swc.pojo.po.Userdata">
+        SELECT
+        <include refid="Base_Column_List" />
+         FROM userdata WHERE
+        uname=#{uname} AND upassword=#{upassword}
+    </select>
+    <select id="selectAll" resultType="com.xm.swc.pojo.po.Userdata">
+        SELECT
+        <include refid="Base_Column_List" />
+        FROM userdata
+    </select>
+    <update id="updateUser"  >
+        UPDATE userdata
+        SET uname = #{uname}, upassword = #{upassword}
+        WHERE uid = #{uid}
+    </update>
+    <delete id="delectUser">
+        DELETE FROM userdata WHERE
+        uid = #{uid}
+    </delete>
+    
+    <insert id="insertUser" >
+      INSERT INTO userdata
+      (uid, uname, upassword)  VALUES
+      (#{uid},#{uname},#{upassword})
+    </insert>
+</mapper>

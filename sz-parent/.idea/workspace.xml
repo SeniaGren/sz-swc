@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sz-manager:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0496db41-5f66-467b-88e2-d95925265d7c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../sz/target/" />
+    <ignored path="$PROJECT_DIR$/sz-parent/target/" />
+    <ignored path="$PROJECT_DIR$/sz-common/target/" />
+    <ignored path="$PROJECT_DIR$/sz-common/sz-foreground/target/" />
+    <ignored path="$PROJECT_DIR$/sz-foreground/target/" />
+    <ignored path="$PROJECT_DIR$/sz-service/target/" />
+    <ignored path="$PROJECT_DIR$/sz-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/sz-interface/target/" />
+    <ignored path="$PROJECT_DIR$/sz-dao/target/" />
+    <ignored path="$PROJECT_DIR$/../sz-manager/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1076421184">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="19" />
+          <entry key="jsp" value="2" />
+          <entry key="png" value="1" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="19" />
+          <entry key="JSP" value="2" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="properties" value="20" />
+          <entry key="xml" value="218" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="Properties" value="20" />
+          <entry key="XML" value="218" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="621554353">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="7" />
+          <entry key="fxml" value="1" />
+          <entry key="ico" value="1" />
+          <entry key="java" value="291" />
+          <entry key="js" value="41" />
+          <entry key="jsp" value="133" />
+          <entry key="kt" value="1" />
+          <entry key="less" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="ts" value="2" />
+          <entry key="xml" value="108" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="7" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="291" />
+          <entry key="JSP" value="133" />
+          <entry key="JavaScript" value="41" />
+          <entry key="Kotlin" value="1" />
+          <entry key="Less" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="TypeScript" value="2" />
+          <entry key="XML" value="109" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3978" />
+          <entry key="js" value="899" />
+          <entry key="jsp" value="1958" />
+          <entry key="kt" value="27" />
+          <entry key="xml" value="791" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3978" />
+          <entry key="JSP" value="1958" />
+          <entry key="JavaScript" value="899" />
+          <entry key="Kotlin" value="27" />
+          <entry key="SQL" value="36" />
+          <entry key="XML" value="755" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/AboutPageCustmerMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/AboutPageCustmerMapper.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="90" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/about/edit.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="45" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/about/list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="49" column="32" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/articlelist.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2100">
+              <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Kotlin Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>shi</find>
+      <find>shiro</find>
+      <find>select</find>
+      <find>post</find>
+      <find>jquery</find>
+      <find>articleList</find>
+      <find>form</find>
+      <find>Base_Column_List</find>
+      <find>我的</find>
+      <find>tbconnection</find>
+      <find>login</find>
+      <find>admin</find>
+      <find>layui-tab-title</find>
+      <find>tab</find>
+      <find>tabAdd</find>
+      <find>items</find>
+      <find>deleteall</find>
+      <find>list</find>
+      <find>json</find>
+      <find>getCheckData</find>
+      <find>alert</find>
+      <find>myselfList</find>
+      <find>serviceList</find>
+      <find>about</find>
+      <find>ser</find>
+      <find>aboutList</find>
+      <find>pricingList</find>
+      <find>editCheckData</find>
+      <find>contactList</find>
+      <find>sub-menu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>serviceList</replace>
+      <replace>aboutList</replace>
+      <replace>contactList</replace>
+      <replace>portfolioList</replace>
+      <replace>indexList</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../FS-Blog" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/itemlist.js" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/item/list.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/item/edit.jsp" />
+        <option value="$PROJECT_DIR$/sz-interface/src/main/java/com/xm/swc/service/interf/UserLogin.java" />
+        <option value="$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/UserdataCustmerMapper.java" />
+        <option value="$PROJECT_DIR$/sz-service/src/main/java/com/xm/swc/service/impl/userLoginImpl.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/User.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/myself/list.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/myselflist.js" />
+        <option value="$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/UserdataCustmerMapper.xml" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/myself/add.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/AboutPageAction.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/service/list.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/aboutlist.js" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/about/edit.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/ServicePageAction.java" />
+        <option value="$PROJECT_DIR$/sz-service/src/main/java/com/xm/swc/service/impl/TbconnectionImpl.java" />
+        <option value="$PROJECT_DIR$/sz-interface/src/main/java/com/xm/swc/service/interf/Tbconnection.java" />
+        <option value="$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/TbconnectionCustmerMapper.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/TbconnectionAction.java" />
+        <option value="$PROJECT_DIR$/sz-interface/src/main/java/com/xm/swc/service/interf/Tbimages.java" />
+        <option value="$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/TbimageCustmerMapper.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/TbimagesAction.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/UserdataAction.java" />
+        <option value="$PROJECT_DIR$/sz-service/src/main/java/com/xm/swc/service/impl/TbimagesImpl.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/service/add.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/service/edit.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/myself/edit.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/servicelist.js" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/about/list.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/pricing/list.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/pricinglist.js" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/pricing/edit.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/pricing/add.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/PricingPageAction.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/contact/list.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/contactlist.js" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/admin.js" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/contact/edit.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/portfoliolist.js" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/portfolio/list.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/portfolio/edit.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/PortfolioPageAction.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/portfolio/add.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/indexlist.js" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/index/list.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/index/edit.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/IndexPageAction.java" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/welcome.jsp" />
+        <option value="$PROJECT_DIR$/sz-common/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\java_web\software\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sz-foreground" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sz-foreground" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sz-foreground" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sz-manager Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sz-manager Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sz-manager Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="505" />
+    <option name="y" value="25" />
+    <option name="width" value="1285" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sz-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sz-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="mappingjacksonhttpmessagec&#9;FILE&#9;jar://D:/java_web/software/maven/repository/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE-sources.jar!/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.java&#10;mappingjackson&#9;PSI&#9;JAVA://org.springframework.http.converter.json.MappingJackson2HttpMessageConverter&#10;tabAdd&#9;null&#9;null&#10;logo&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Mybtisgenerate" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/sz-parent" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.xm.swc.service.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xm.swc.page" />
+      <recent name="com.xm.swc.dao" />
+      <recent name="com.xm.swc.shiro" />
+      <recent name="com.xm.swc.util" />
+      <recent name="com.xm.swc.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_web\workplace_javaweb\sz\sz-manager\src\main\webapp\static\js" />
+      <recent name="D:\java_web\workplace_javaweb\sz\sz-manager\src\main\webapp\WEB-INF\jsp\pages\index" />
+      <recent name="D:\java_web\workplace_javaweb\sz\sz-manager\src\main\webapp\WEB-INF\jsp\pages\portfolio" />
+      <recent name="D:\java_web\workplace_javaweb\sz\sz-manager\src\main\webapp\WEB-INF\jsp\pages\tbconnect" />
+      <recent name="D:\java_web\workplace_javaweb\sz\sz-manager\src\main\webapp\WEB-INF\jsp\pages\pricing" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_web\workplace_javaweb\sz\sz-parent\sz-common\src\main\resources" />
+      <recent name="D:\java_web\workplace_javaweb\sz\sz-parent\sz-common\src\main\resources\spring" />
+      <recent name="D:\java_web\workplace_javaweb\shopping\sz-parent\sz-dao\src\main\java\com\xm\swc\dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:84/login" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="sz-manager:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_sz-parent" />
+        <option name="HTTP_PORT" value="84" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3828" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="sz-manager:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0496db41-5f66-467b-88e2-d95925265d7c" name="Default Changelist" comment="" />
+      <created>1538269968787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538269968787</updated>
+      <workItem from="1538269971666" duration="8599000" />
+      <workItem from="1538278750045" duration="1304000" />
+      <workItem from="1538958337425" duration="12748000" />
+      <workItem from="1538973440645" duration="10973000" />
+      <workItem from="1539063190813" duration="12094000" />
+      <workItem from="1539076159883" duration="1248000" />
+      <workItem from="1539096795441" duration="1884000" />
+      <workItem from="1539130489265" duration="24515000" />
+      <workItem from="1539170810780" duration="12083000" />
+      <workItem from="1539217344062" duration="15556000" />
+      <workItem from="1540027782662" duration="2399000" />
+      <workItem from="1540102695726" duration="33611000" />
+      <workItem from="1540193336548" duration="209000" />
+      <workItem from="1540194519615" duration="2388000" />
+      <workItem from="1540253650775" duration="885000" />
+      <workItem from="1540368758304" duration="24000" />
+      <workItem from="1540467128224" duration="612000" />
+      <workItem from="1540477498903" duration="592000" />
+      <workItem from="1540513692269" duration="606000" />
+      <workItem from="1540528779312" duration="705000" />
+      <workItem from="1540882365896" duration="333000" />
+      <workItem from="1540886028605" duration="1823000" />
+      <workItem from="1540966125079" duration="1825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="147016000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.23994638" />
+      <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.2808311" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.07920792" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26449788" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5785007" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3197051" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.21179625" />
+      <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.2808311" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.07920792" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.417256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5785007" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3197051" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sz-pojo/src/main/java/com/xm/swc/pojo/po/Portfoliopage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-pojo/src/main/java/com/xm/swc/pojo/po/Pricingpage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-interface/src/main/java/com/xm/swc/service/interf/Tbconnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-service/src/main/java/com/xm/swc/service/impl/TbconnectionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/TbconnectionCustmerMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/TbconnectionCustmerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-pojo/src/main/java/com/xm/swc/pojo/po/Tbconnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="49" column="28" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/TbimageCustmerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/TbimageCustmerMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-interface/src/main/java/com/xm/swc/service/interf/Tbimages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-pojo/src/main/java/com/xm/swc/pojo/po/Tbimage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-pojo/src/main/java/com/xm/swc/pojo/po/Userdata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/UserdataAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="46" column="20" selection-start-line="44" selection-start-column="15" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-service/src/main/java/com/xm/swc/service/impl/TbimagesImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/service/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/myself/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="76" column="26" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/ServicePageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/servicelist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/service/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/service/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/pricing/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="63" column="11" selection-start-line="26" selection-start-column="2" selection-end-line="63" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/pricing/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/weadmin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2775" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/pricing/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="35" column="66" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/pricinglist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/PricingPageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="51" column="87" selection-start-line="51" selection-start-column="74" selection-end-line="51" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/contact/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/contactlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="392" column="66" selection-start-line="392" selection-start-column="66" selection-end-line="392" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/contact/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/TbconnectionAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/TbimagesAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/portfoliolist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/portfolio/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/PortfolioPageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/portfolio/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/portfolio/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-846">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="58" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/index/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/index/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/indexlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/java/com/xm/swc/page/IndexPageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="40" column="66" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9050">
+          <caret line="374" column="62" selection-start-line="20" selection-start-column="4" selection-end-line="382" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/AboutPageCustmerMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sz-dao/src/main/java/com/xm/swc/dao/AboutPageCustmerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="90" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/about/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/pages/about/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/static/js/articlelist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sz-manager/src/main/webapp/WEB-INF/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>sz-foreground:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sz-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

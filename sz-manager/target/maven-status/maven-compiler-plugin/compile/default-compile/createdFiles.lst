@@ -1,0 +1,12 @@
+com\xm\swc\page\TbimagesAction.class
+com\xm\swc\page\AboutPageAction.class
+com\xm\swc\User.class
+com\xm\swc\web\PageAction.class
+com\xm\swc\page\IndexPageAction.class
+com\xm\swc\page\PricingPageAction.class
+com\xm\swc\MessageResult.class
+com\xm\swc\page\UserdataAction.class
+com\xm\swc\web\LoginAction.class
+com\xm\swc\page\TbconnectionAction.class
+com\xm\swc\page\ServicePageAction.class
+com\xm\swc\page\PortfolioPageAction.class

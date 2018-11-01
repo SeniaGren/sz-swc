@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../sz-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sz-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sz-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sz-foreground" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sz-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sz-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sz-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sz-service" charset="UTF-8" />
+  </component>
+</project>

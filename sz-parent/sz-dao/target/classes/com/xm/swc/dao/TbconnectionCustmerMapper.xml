@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xm.swc.dao.TbconnectionCustmerMapper" >
+    <sql id="Base_Column_List" >
+    qqNumber, wechatNumber, weiBoNumber, mailNumber, telephone,connectId
+  </sql>
+    <insert id="insertTbconnection" >
+        insert into 
+        tbconnection
+        (qqNumber, wechatNumber, weiBoNumber, mailNumber, telephone,connectId)
+        values (#{qqNumber},#{wechatNumber},#{weiBoNumber},#{mailNumber},#{telephone},#{connectId})
+    </insert>
+    <delete id="delectTbconnection">
+        delete from tbconnection
+        where connectId = #{connectId}
+    </delete>
+    <update id="updateTbconnection" >
+        update tbconnection
+        set qqNumber = #{qqNumber},wechatNumber = #{wechatNumber},weiBoNumber = #{weiBoNumber},mailNumber = #{mailNumber},telephone = #{telephone}
+        where  connectId = #{connectId}
+    </update>
+    <select id="selectTbconnection" resultType="com.xm.swc.pojo.po.Tbconnection">
+        select
+        <include refid="Base_Column_List"/>
+        from tbconnection
+    </select>
+</mapper>

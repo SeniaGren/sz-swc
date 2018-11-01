@@ -1,0 +1,8 @@
+com\xm\swc\service\interf\ServicePage.class
+com\xm\swc\service\interf\UserLogin.class
+com\xm\swc\service\interf\AboutPage.class
+com\xm\swc\service\interf\PricingPage.class
+com\xm\swc\service\interf\IndexPage.class
+com\xm\swc\service\interf\Tbimages.class
+com\xm\swc\service\interf\Tbconnection.class
+com\xm\swc\service\interf\PortfolioPage.class

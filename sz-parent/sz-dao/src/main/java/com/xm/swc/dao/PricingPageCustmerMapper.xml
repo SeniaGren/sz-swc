@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xm.swc.dao.PricingPageCustmerMapper" >
+    <sql id="Base_Column_List" >
+    pricingId, pricingName, pricingContent, pricingPrice, pricingSelect
+  </sql>
+    <insert id="insertPricingPage" >
+        insert into 
+        pricingpage
+        (pricingId, pricingName, pricingContent, pricingPrice, pricingSelect)
+        values (#{pricingId},#{pricingName},#{pricingContent},#{pricingPrice},#{pricingSelect})
+    </insert>
+    <delete id="delectPricingPage">
+        delete from pricingpage
+        where pricingId = #{pricingId}
+    </delete>
+    <update id="updatePricingPage" >
+        update pricingpage
+        set pricingName = #{pricingName},pricingContent = #{pricingContent},pricingPrice = #{pricingPrice},pricingSelect = #{pricingSelect}
+        where  pricingId = #{pricingId}
+    </update>
+    <select id="selectPricingPage" resultType="com.xm.swc.pojo.po.Pricingpage">
+        select
+        <include refid="Base_Column_List"/>
+        from pricingpage
+    </select>
+</mapper>

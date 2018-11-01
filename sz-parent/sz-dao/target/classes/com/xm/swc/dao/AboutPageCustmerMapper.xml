@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xm.swc.dao.AboutPageCustmerMapper" >
+    <sql id="Base_Column_List" >
+    aboutId, aboutName, aboutContent
+  </sql>
+    <insert id="insertAboutPage" >
+        insert into 
+        aboutpage 
+        (aboutId,aboutName,aboutContent) 
+        values (#{aboutId},#{aboutName},#{aboutContent})        
+    </insert>
+    <delete id="delectAboutPage">
+        delete from aboutpage
+        where aboutId = #{aboutId}
+    </delete>
+    <update id="updateAboutPage" >
+        update aboutpage
+        set aboutName = #{aboutName},aboutContent = #{aboutContent}
+        where  aboutId = #{aboutId}
+    </update>
+    <select id="selectAboutPage" resultType="com.xm.swc.pojo.po.Aboutpage">
+        select
+        <include refid="Base_Column_List"/>
+        from aboutpage
+    </select>
+</mapper>

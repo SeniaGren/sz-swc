@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sz-common" />
+        <module name="sz-dao" />
+        <module name="sz-foreground" />
+        <module name="sz-interface" />
+        <module name="sz-manager" />
+        <module name="sz-pojo" />
+        <module name="sz-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sz" target="1.8" />
+      <module name="sz-common" target="1.8" />
+      <module name="sz-dao" target="1.8" />
+      <module name="sz-foreground" target="1.8" />
+      <module name="sz-interface" target="1.8" />
+      <module name="sz-manager" target="1.8" />
+      <module name="sz-parent" target="1.8" />
+      <module name="sz-pojo" target="1.8" />
+      <module name="sz-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

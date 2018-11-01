@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sz-common/sz-common.iml" filepath="$PROJECT_DIR$/sz-common/sz-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sz-dao/sz-dao.iml" filepath="$PROJECT_DIR$/sz-dao/sz-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sz-foreground/sz-foreground.iml" filepath="$PROJECT_DIR$/sz-foreground/sz-foreground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sz-interface/sz-interface.iml" filepath="$PROJECT_DIR$/sz-interface/sz-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sz-manager/sz-manager.iml" filepath="$PROJECT_DIR$/../sz-manager/sz-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sz-parent/sz-parent.iml" filepath="$PROJECT_DIR$/sz-parent/sz-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sz-pojo/sz-pojo.iml" filepath="$PROJECT_DIR$/sz-pojo/sz-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sz-service/sz-service.iml" filepath="$PROJECT_DIR$/sz-service/sz-service.iml" />
+    </modules>
+  </component>
+</project>

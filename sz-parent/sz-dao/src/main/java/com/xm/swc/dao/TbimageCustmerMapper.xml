@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xm.swc.dao.TbimageCustmerMapper" >
+    <sql id="Base_Column_List" >
+    imgId, imgUrl, imgUid
+  </sql>
+    <insert id="insertTbimage" >
+        insert into 
+        tbimage
+        (imgId, imgUrl, imgUid)
+        values (#{imgId},#{imgUrl},#{imgUid})
+    </insert>
+    <delete id="delectTbimage">
+        delete from tbimage
+        where imgId = #{imgId}
+    </delete>
+    <update id="updateTbimage" >
+        update tbimage
+        set imgUrl = #{imgUrl},imgUid = #{imgUid}}
+        where  imgId = #{imgId}
+    </update>
+    <select id="selectTbimage" resultType="com.xm.swc.pojo.po.Tbimage" >
+        select
+        <include refid="Base_Column_List"/>
+        from tbimage
+    </select>
+</mapper>
